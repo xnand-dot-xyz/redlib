@@ -1,0 +1,14 @@
+/* XNAND theme setting */
+.XNAND {
+	--accent: #a62f33;
+	--green: #a6e22e;
+	--text: #eee;
+	--foreground: #202020;
+	--background: #1d1d1d;
+	--outside: #1f1f1f;
+	--post: #202020;
+	--panel-border: 1px solid #333;
+	--highlighted: #333;
+	--visited: #aaa;
+	--shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+}
